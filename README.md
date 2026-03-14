@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Ovie 👋
 
-<!--
-**OviXTheAnalyst/OviXTheAnalyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst passionate about transforming raw data into strategic insights.
 
-Here are some ideas to get you started:
+## Skills
+- Excel
+- Power BI
+- SQL
+- Python
+- Data Visualization
+- Predictive Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Portfolio
+🔗 https://github.com/OviXTheAnalyst/portfolio
+
+## Connect With Me
+LinkedIn: https://linkedin.com/in/oshorakpor-ovie  
+Email: oshorpresh@gmail.com
